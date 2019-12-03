@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Khaja</string>
+    <string name="login">Login</string>
+    <string name="button">Button</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="button">Button</string>
 </resources>
