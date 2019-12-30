@@ -11,4 +11,4 @@ public class Register {
         etPssword=findViewById(R.id.Password);
         etBtnLogin=findViewById(R.id.BtnLogin);
         etBtnReg=findViewById(R.id.BtnReg);
-}
+};
