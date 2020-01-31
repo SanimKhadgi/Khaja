@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "825020616939-g49pscb98tpmlsqd709eofql9emmbjhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaja",
+            "certificate_hash": "50d791b17ac0a14aacd38e70e9959f33c066d813"
+          }
+        },
+        {
           "client_id": "825020616939-3j57ch8rql407foffkha9tv0agvr1doq.apps.googleusercontent.com",
           "client_type": 3
         }
