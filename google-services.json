@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825020616939",
+    "firebase_url": "https://khaja-254ed.firebaseio.com",
+    "project_id": "khaja-254ed",
+    "storage_bucket": "khaja-254ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825020616939:android:ed1e643a2f36bb0e44eeae",
+        "android_client_info": {
+          "package_name": "com.khaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825020616939-g49pscb98tpmlsqd709eofql9emmbjhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaja",
+            "certificate_hash": "50d791b17ac0a14aacd38e70e9959f33c066d813"
+          }
+        },
+        {
+          "client_id": "825020616939-3j57ch8rql407foffkha9tv0agvr1doq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjOuVMOOe89X13ISD8SHT5-nDBLXg9-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825020616939-3j57ch8rql407foffkha9tv0agvr1doq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

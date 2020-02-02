@@ -16,7 +16,7 @@ public class MainActivity extends WearableActivity {
         setContentView(R.layout.activity_main);
 
         mTextView = (TextView) findViewById(R.id.text);
-        mTextView = (TextView) findViewById(R.id.text);
+
 
         // Enables Always-on
         setAmbientEnabled();
