@@ -1,5 +1,7 @@
 package com.example.khajawear;
 
+import android.content.IntentFilter;
+import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.support.wearable.activity.WearableActivity;
 import android.widget.TextView;
@@ -17,5 +19,14 @@ public class MainActivity extends WearableActivity {
 
         // Enables Always-on
         setAmbientEnabled();
+
+
+        protected void onStart() {
+            super.onStart();
+
+            IntentFilter intentFilter=new IntentFilter(ConnectivityManager.EXTRA_NO_CONNECTIVITY);
+            registerReceiver(broadcastRecieverExample,intentFilter);
+
+        }
     }
 }
