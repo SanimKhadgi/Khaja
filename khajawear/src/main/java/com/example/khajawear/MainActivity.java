@@ -21,12 +21,6 @@ public class MainActivity extends WearableActivity {
         setAmbientEnabled();
 
 
-        protected void onStart() {
-            super.onStart();
 
-            IntentFilter intentFilter=new IntentFilter(ConnectivityManager.EXTRA_NO_CONNECTIVITY);
-            registerReceiver(broadcastRecieverExample,intentFilter);
-
-        }
     }
 }
